@@ -1,4 +1,4 @@
-package problems.plus_one;
+package problems.plus_one_66;
 
 public class Main {
     public static void main(String[] args) {
