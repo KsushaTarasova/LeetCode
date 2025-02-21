@@ -1,4 +1,4 @@
-package problems.two_sum;
+package problems.two_sum_1;
 
 public class Main {
     public static void main(String[] args) {
