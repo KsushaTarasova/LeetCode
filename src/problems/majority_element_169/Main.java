@@ -1,4 +1,4 @@
-package problems.majority_element;
+package problems.majority_element_169;
 
 public class Main {
     public static void main(String[] args) {
