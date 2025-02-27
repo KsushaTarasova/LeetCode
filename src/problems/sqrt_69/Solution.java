@@ -11,7 +11,7 @@ public class Solution {
         int mid;
         while (start <= end) {
             mid = start + (end - start) / 2;
-            if (mid * mid > x) {
+            if ((long) mid * mid > (long) x) {
                 end = mid - 1;
             } else if (mid * mid == x) {
                 return mid;
